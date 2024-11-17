@@ -1,4 +1,4 @@
-# Projeto MDD
+# Projeto SQL
 
 ## Descrição:
 
