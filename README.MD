@@ -103,7 +103,7 @@ Script na pasta atividades.
 
 Script na pasta atividades.
 
-![Visualização](imagens/atividade 8.png)
+![Visualização](imagens/atividade8.png)
 
 ## Atividade 09 – Precisamos criar uma VIEW que forneça todas as informações dos candidatos, incluindo ocupação, partido, votos recebidos, valor dos bens e links para suas redes sociais.
 
